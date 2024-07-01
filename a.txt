@@ -1,0 +1,53 @@
+dfsbfkjbbld
+  try(Writer writer = new FileWriter("a.txt");
+        Reader reader = new FileReader("a.txt")){
+            writer.write("hello world\n");
+            writer.flush();
+
+            char[] chars = new char[20];
+            reader.read(chars);
+            System.out.println(chars);  try(Writer writer = new FileWriter("a.txt");
+                                              Reader reader = new FileReader("a.txt")){
+                                                  writer.write("hello world\n");
+                                                  writer.flush();
+
+                                                  char[] chars = new char[20];
+                                                  reader.read(chars);
+                                                  System.out.println(chars);  try(Writer writer = new FileWriter("a.txt");
+                                                                                    Reader reader = new FileReader("a.txt")){
+                                                                                        writer.write("hello world\n");
+                                                                                        writer.flush();
+
+                                                                                        char[] chars = new char[20];
+                                                                                        reader.read(chars);
+                                                                                        System.out.println(chars);  try(Writer writer = new FileWriter("a.txt");
+                                                                                                                          Reader reader = new FileReader("a.txt")){
+                                                                                                                              writer.write("hello world\n");
+                                                                                                                              writer.flush();
+
+                                                                                                                              char[] chars = new char[20];
+                                                                                                                              reader.read(chars);
+                                                                                                                              System.out.println(chars);  try(Writer writer = new FileWriter("a.txt");
+                                                                                                                                                                Reader reader = new FileReader("a.txt")){
+                                                                                                                                                                    writer.write("hello world\n");
+                                                                                                                                                                    writer.flush();
+
+                                                                                                                                                                    char[] chars = new char[20];
+                                                                                                                                                                    reader.read(chars);
+                                                                                                                                                                    System.out.println(chars);  try(Writer writer = new FileWriter("a.txt");
+                                                                                                                                                                                                      Reader reader = new FileReader("a.txt")){
+                                                                                                                                                                                                          writer.write("hello world\n");
+                                                                                                                                                                                                          writer.flush();
+
+                                                                                                                                                                                                          char[] chars = new char[20];
+                                                                                                                                                                                                          reader.read(chars);
+                                                                                                                                                                                                          System.out.println(chars);  try(Writer writer = new FileWriter("a.txt");
+                                                                                                                                                                                                                                            Reader reader = new FileReader("a.txt")){
+                                                                                                                                                                                                                                                writer.write("hello world\n");
+                                                                                                                                                                                                                                                writer.flush();
+
+                                                                                                                                                                                                                                                char[] chars = new char[20];
+                                                                                                                                                                                                                                                reader.read(chars);
+       erge
+
+                                                                                                                                                                                                                                                System.out.println(chars);
